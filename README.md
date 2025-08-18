@@ -1,4 +1,4 @@
-# Challenge ONE Data Science – Telecom X (parte 1)
+# Challenge ONE - Data Science – Telecom X (parte 1)
 ## 📊 Análisis de Evasión de Clientes
 
 Este proyecto analiza datos de una empresa de telecomunicaciones para identificar los factores que influyen en la evasión de clientes. Se utilizaron herramientas de ciencia de datos para visualizar, cuantificar y predecir comportamientos de abandono, con el objetivo de proponer estrategias de retención.
