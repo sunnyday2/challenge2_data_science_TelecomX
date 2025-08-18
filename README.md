@@ -30,7 +30,9 @@ Este proyecto analiza datos de una empresa de telecomunicaciones para identifica
 
 ---
 
-## Este proyecto requiere Python 3.8+ y las siguientes bibliotecas:
+## 📝 Requerimientos
+
+### Este proyecto requiere Python 3.8+ y las siguientes bibliotecas:
 
 - pandas
 - numpy
