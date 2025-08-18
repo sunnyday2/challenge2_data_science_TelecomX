@@ -13,20 +13,20 @@ Este proyecto analiza datos de una empresa de telecomunicaciones para identifica
 
 ---
 
-## 📸 Visualizaciones
+## 📸 Algunas Visualizaciones de Notebook
 
 ### Comparación por categorías (género, contrato, método de pago)
-![Comparación por categoría](./permanencia_por_categoria.png)
+![Comparación por categoría](./img/permanencia_por_categoria.png)
 
 ---
 
 ### Evasión según monto pagado y edad
-![Evasión por total pagado](./evasiones_pagos_edad.png)
+![Evasión por total pagado](./img/evasiones_pagos_edad.png)
 
 ---
 
 ### Evasión según permanencia y edad
-![Evasión por permanencia](./evasiones_permanencia_edad.png)
+![Evasión por permanencia](./img/evasiones_permanencia_edad.png)
 
 ---
 
@@ -60,7 +60,7 @@ print("plotly:", plotly.__version__)
 
 - Ejecutarlo localmente en Visual Studio Code
 - Cargar el archivo .ipynb a tu Google Disk y ejecutar el notebook en [Google Colab](https://colab.research.google.com)
-- Ejecutar en el entorno virtual de GitHub ![Code space](./fig3.png)
+- Ejecutar en el entorno virtual de GitHub ![Code space](./img/fig3.png)
   
 ## ⚙️ Instalación y dependencias en el entorno virtual
 
