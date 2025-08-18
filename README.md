@@ -30,13 +30,35 @@ Este proyecto analiza datos de una empresa de telecomunicaciones para identifica
 
 ---
 
-Este proyecto requiere Python 3.8+ y las siguientes bibliotecas:
+## Este proyecto requiere Python 3.8+ y las siguientes bibliotecas:
+
 - pandas
 - numpy
 - matplotlib
 - seaborn
 - plotly
 - notebook (para ejecutar archivos .ipynb localmente) o un entorno virtual
+
+```bash
+#### Para revisar las versiones instaladas
+import pandas as pd
+import numpy as np
+import matplotlib
+import seaborn as sns
+import plotly
+
+print("pandas:", pd.__version__)
+print("numpy:", np.__version__)
+print("matplotlib:", matplotlib.__version__)
+print("seaborn:", sns.__version__)
+print("plotly:", plotly.__version__)
+```
+  
+## ¿Como puedes ejecutar un notebook?
+
+- Ejecutarlo localmente en Visual Studio Code
+- Cargar el archivo .ipynb a tu Google Disk y ejecutar el notebook en [Google Colab](https://colab.research.google.com)
+- Ejecutar en el entorno virtual de GitHub ![Code space](./fig3.png)
   
 ## ⚙️ Instalación y dependencias en el entorno virtual
 
