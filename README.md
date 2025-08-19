@@ -63,13 +63,11 @@ print("plotly:", plotly.__version__)
 
 - Ejecutarlo localmente en Visual Studio Code
 - Cargar el archivo .ipynb a tu Google Disk y ejecutar el notebook en [Google Colab](https://colab.research.google.com)
-- Ejecutar en el entorno virtual de GitHub ![Code space](./img/fig3.png)
+- Ejecutar en el entorno virtual de GitHub. En tu repositorio, haz clic en el botón verde Code → pestaña Codespaces → selecciona New codespace on main (o la rama que quieras). ![Code space](./img/fig3.png)
   
 ## ⚙️ Instalación y dependencias en el entorno virtual
 
 ```bash
-pip install pandas numpy matplotlib seaborn plotly
-
 
 # 🧰 ¿Qué necesitas para ejecutar .ipynb localmente?
 # ✅ 1. Tener Python instalado
@@ -90,7 +88,7 @@ venv\Scripts\activate
 source venv/bin/activate
 
 # Instalar Jupyter y librerías necesarias
-pip install notebook pandas matplotlib seaborn plotly
+pip install notebook jupyterlab pandas numpy matplotlib seaborn plotly
 
 # ✅ 3. Ejecutar Jupyter Notebook
 jupyter notebook
