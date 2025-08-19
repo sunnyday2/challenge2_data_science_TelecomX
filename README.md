@@ -1,3 +1,6 @@
+
+![Alura + One](./img/aluraOne.png)
+
 # Challenge ONE - Data Science – Telecom X (parte 1)
 ## 📊 Análisis de Evasión de Clientes
 
